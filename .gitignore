@@ -1,0 +1,16 @@
+data/catalog.dat
+data/*.zip
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# LaTeX build files
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
